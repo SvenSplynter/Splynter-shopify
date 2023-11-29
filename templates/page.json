@@ -1,0 +1,11 @@
+{
+    "name": "Page Template",
+    "layout": "theme",
+    "wrapper": "div",
+    "sections": {
+        "page-template": {
+            "type": "example-page"
+        }
+    },
+    "order": ["page-template"]
+}

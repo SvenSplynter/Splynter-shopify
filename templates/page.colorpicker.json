@@ -1,0 +1,11 @@
+{
+    "name": "Template colortest",
+    "layout": "color_picker_theme",
+    "wrapper": "div#colorpicker.custom-class[custom-attribute=hello]",
+    "sections": {
+        "template-colortest": {
+            "type": "example-colortest"
+        }
+    },
+    "order": ["template-colortest"]
+}
